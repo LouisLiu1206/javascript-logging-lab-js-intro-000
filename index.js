@@ -1,2 +1,3 @@
 console.error("Hannah is pretty!")
-consle.log("Hannah is not stupid")
+console.log("Hannah is not stupid")
+console.warn("Hannah loves pizza")
